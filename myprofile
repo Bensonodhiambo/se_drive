@@ -1,0 +1,23 @@
+<!DOCTYPE html>>
+<html>
+    <head>
+        <link rel="stlesheet" href="styles.css"/>
+        <script src = "index.js"></script>
+    </head>
+    <body>
+
+        <h1>Hi my name is Benson Benedict Elly Otieno Odhiambo</h1>
+        <h2>Fun facts about me :</h2>
+        <ul>
+             <li>passionate about Software Engineering</li>
+             <li>Live in Nairobi,Kenya</li>
+             <li>Sing in church choir</li>
+              
+              
+        </ul>
+        <p>Please connect with me on <a>Linkedin here</a></p>
+        <input placeholder="Enter Email">
+        <button>Join Newsletter</button>
+    </body>
+
+</html>
